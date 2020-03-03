@@ -9,7 +9,8 @@ Quantum  computers  could  spur  the  development  of  new  breakthroughs  in  s
 
 ## Description
 
-A simulation of a quantum computer was implemented on a classical computer using the Python programming language. All basic components of a quantum computer were created and the Berstein-Vazirani quantum algorithm was implemented and successfully run using Qiskit library.
+A simulation of a quantum computer was implemented on a classical computer using the Python programming language. All basic components of a quantum computer were created and the Berstein-Vazirani quantum algorithm was implemented and successfully run using Qiskit, by IBM.
 
 ## Result
+
 Results have corroborated those by Vazirani et al in 1992. The Quantum Algorithm successfully guesses the input number in 1 try. It therefore has time complexity <img src="https://render.githubusercontent.com/render/math?math=O(1)">  and provided an exponential speedup with respect to the best classical alternative of <img src="https://render.githubusercontent.com/render/math?math=O(N)"> .
