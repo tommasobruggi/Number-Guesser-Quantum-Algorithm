@@ -18,7 +18,9 @@ A simulation of a quantum computer was implemented on a classical computer using
 The Quantum Algorithm attempts to determine a secret string of 1s and 0s. 
 
 
-This project transforms the string of 1s and 0s from a binary to a decimal number. The Berstein-Vazirani algorithm is therefore used to determine a secret number, rather than a string.
+This project transforms the string of 1s and 0s from a binary to a decimal number. The Berstein-Vazirani algorithm is therefore used to determine a secret number (![element1](http://latex.codecogs.com/svg.latex?A%3D%5Cleft%20%5C%7B3%2C9%2C14%7D%7B%20%5Cright%20%5C%7D%2C%203%20%5Cin%20A)
+
+<!-- A=\left \{3,9,14}{  \right \}, 3 \in A -->), rather than a string.
 
 ## Result
 
