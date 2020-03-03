@@ -22,4 +22,7 @@ This project transforms the string of 1s and 0s from a binary to a decimal numbe
 
 ## Result
 
-The Quantum Algorithm successfully guesses the input number in 1 try. It therefore has time complexity <img src="https://render.githubusercontent.com/render/math?math=O(1)">  and provided a polynomial speedup with respect to the best classical alternative of <img src="https://render.githubusercontent.com/render/math?math=O(N)">, where N is the number of bits. These results corroborate those by Vazirani et al in 1992. 
+The Quantum Algorithm successfully guesses the input number in 1 try. It therefore has time complexity ![real](http://latex.codecogs.com/svg.latex?O(N))
+
+
+<img src="https://render.githubusercontent.com/render/math?math=O(1)">  and provided a polynomial speedup with respect to the best classical alternative of <img src="https://render.githubusercontent.com/render/math?math=O(N)">, where N is the number of bits. These results corroborate those by Vazirani et al in 1992. 
