@@ -1,5 +1,7 @@
 ![alt text](https://www.openbusinesscouncil.org/europes-most-advanced-quantum-computing-software-developer-riverlane-secures-3-25m-funding/)
 
+![stack Overflow](http://lmsotfy.com/so.png)
+
 # Number Guesser Quantum Algorithm
 
 Quantum computing utilises three basic ingredients inherent to quantum mechanics: superposition, interference and entanglement. These phenomena allow for an enhanced performance of quantum algorithms, which translates to a speed-up compared to the best corresponding classical alternatives.
