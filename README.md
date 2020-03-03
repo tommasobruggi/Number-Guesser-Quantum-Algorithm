@@ -1,4 +1,4 @@
-# Number-Guesser-Quantum-Algorithm
+# Number Guesser Quantum Algorithm
 
 Quantum computing utilises three basic ingredients inherent to quantum mechanics: superposition, interference and entanglement. These phenomena allow for an enhanced performance of quantum algorithms, which translates to a speed-up compared to the best corresponding classical alternatives.
 
