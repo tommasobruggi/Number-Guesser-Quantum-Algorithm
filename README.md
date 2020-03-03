@@ -1,3 +1,8 @@
+<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+
+<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+
+
 # Number Guesser Quantum Algorithm
 
 Quantum computing utilises three basic ingredients inherent to quantum mechanics: superposition, interference and entanglement. These phenomena allow for an enhanced performance of quantum algorithms, which translates to a speed-up compared to the best corresponding classical alternatives.
