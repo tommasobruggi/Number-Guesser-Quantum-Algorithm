@@ -1,6 +1,4 @@
-
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+![alt text](https://www.openbusinesscouncil.org/europes-most-advanced-quantum-computing-software-developer-riverlane-secures-3-25m-funding/)
 
 # Number Guesser Quantum Algorithm
 
