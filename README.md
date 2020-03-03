@@ -15,11 +15,11 @@ A simulation of a quantum computer was implemented on a classical computer using
 
 ## Berstein-Vaziarani Algorithm
 
-The Quantum Algorithm attempts to determine a secret string of 1s and 0s. 
+The Quantum Algorithm attempts to determine a secret string of ![equals1](http://latex.codecogs.com/svg.latex?1)s and ![equals1](http://latex.codecogs.com/svg.latex?0)s. 
 
 
 This project transforms the string of 1s and 0s from a binary to a decimal number. The Berstein-Vazirani algorithm is therefore used to determine a secret number ![real](http://latex.codecogs.com/svg.latex?n%20%5Cin%20%5Cmathbb%7BN%7D), rather than a string.
 
 ## Result
 
-The Quantum Algorithm successfully guesses the input number in 1 try. It therefore has time complexity ![real](http://latex.codecogs.com/svg.latex?O(1)) and provided a polynomial speedup with respect to the best classical alternative of ![real](http://latex.codecogs.com/svg.latex?O(N)), where ![real](http://latex.codecogs.com/svg.latex?N) is the number of bits. These results corroborate those by Vazirani et al in 1992. 
+The Quantum Algorithm successfully guesses the input number in ![equals1](http://latex.codecogs.com/svg.latex?1) try. It therefore has time complexity ![real](http://latex.codecogs.com/svg.latex?O(1)) and provided a polynomial speedup with respect to the best classical alternative of ![real](http://latex.codecogs.com/svg.latex?O(N)), where ![real](http://latex.codecogs.com/svg.latex?N) is the number of bits. These results corroborate those by Vazirani et al in ![equals1](http://latex.codecogs.com/svg.latex?1992). 
