@@ -18,8 +18,8 @@ A simulation of a quantum computer was implemented on a classical computer using
 The Quantum Algorithm attempts to determine a secret string of 1s and 0s. 
 
 
-This project transforms the string of 1s and 0s from a binary to a decimal number. The Berstein-Vazirani algorithm is therefore used to determine a secret number k, ![real](http://latex.codecogs.com/svg.latex?k%20%5Cin%20%5Cmathbb%7BN%7D), rather than a string.
+This project transforms the string of 1s and 0s from a binary to a decimal number. The Berstein-Vazirani algorithm is therefore used to determine a secret number k, ![real](http://latex.codecogs.com/svg.latex?n%20%5Cin%20%5Cmathbb%7BN%7D), rather than a string.
 
 ## Result
 
-The Quantum Algorithm successfully guesses the input number in 1 try. It therefore has time complexity <img src="https://render.githubusercontent.com/render/math?math=O(1)">  and provided a polynomial speedup with respect to the best classical alternative of <img src="https://render.githubusercontent.com/render/math?math=O(N)"> . These results corroborate those by Vazirani et al in 1992. 
+The Quantum Algorithm successfully guesses the input number in 1 try. It therefore has time complexity <img src="https://render.githubusercontent.com/render/math?math=O(1)">  and provided a polynomial speedup with respect to the best classical alternative of <img src="https://render.githubusercontent.com/render/math?math=O(N)">, where N is the number of bits. These results corroborate those by Vazirani et al in 1992. 
