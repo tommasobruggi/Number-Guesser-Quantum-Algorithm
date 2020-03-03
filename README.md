@@ -1,6 +1,4 @@
-![alt text](https://www.openbusinesscouncil.org/europes-most-advanced-quantum-computing-software-developer-riverlane-secures-3-25m-funding/)
-
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3000%252C2000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F36514d02b27e52baa311efcbcbda2610%252F203644880%252F464270905.jpg%26client%3Da1acac3e1b3290917d92%26signature%3Da29e527af032f490baae3ac233ff2aad96f1b383&client=amp-blogside-v2&signature=d5680a0b2953c9852b41d2bc968e4cba0373530d)
 
 # Number Guesser Quantum Algorithm
 
