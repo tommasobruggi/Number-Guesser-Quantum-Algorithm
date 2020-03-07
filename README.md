@@ -15,8 +15,7 @@ A simulation of a quantum computer was implemented on a classical computer using
 
 The Quantum Algorithm attempts to determine a secret string of ![equals1](http://latex.codecogs.com/svg.latex?1)s and ![equals1](http://latex.codecogs.com/svg.latex?0)s. 
 
-
-This project transforms the string of ![equals1](http://latex.codecogs.com/svg.latex?1)s and ![equals1](http://latex.codecogs.com/svg.latex?0)s from a binary to a decimal number. The Bernstein-Vazirani algorithm is therefore used to determine a secret number ![real](http://latex.codecogs.com/svg.latex?n%20%5Cin%20%5Cmathbb%7BN%7D), rather than a string.
+This project transforms the string of ![equals1](http://latex.codecogs.com/svg.latex?1)s and ![equals1](http://latex.codecogs.com/svg.latex?0)s from a binary to a decimal number. The Bernstein-Vazirani algorithm is therefore used to determine a secret number ![real](http://latex.codecogs.com/svg.latex?n%20%5Cin%20%5Cmathbb%7BN%7D), rather than a string. This solves the famous game of "guess my number".
 
 ## Result
 
